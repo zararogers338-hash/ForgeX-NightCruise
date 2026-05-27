@@ -1,0 +1,30 @@
+{"text":"[CHINESE VERSION]
+[S1] STUDY OVERVIEW
+- Research problem: The provided text describes a small local model workflow for sorting technical documents into categories.
+- Research objective: Not clearly stated in the provided text.
+[S2] METHODS AND DATA
+- Study design: Not specified in the provided text.
+- Data source: short document excerpts.
+- Sample size: Not specified in the provided text.
+- Analytical / statistical methods: Not specified in the provided text.
+[S3] AUTHOR CLAIMS
+- The workflow uses a teacher model to generate structured examples from short document excerpts.
+[S4] CLAIM–EVIDENCE ALIGNMENT
+Claim ID: C1
+Claim: The workflow uses a teacher model to generate structured examples from short document excerpts.
+Evidence: The text states that the workflow uses a teacher model to generate structured examples from short document excerpts.
+Evidence Status: Directly supported
+[S5] UNCERTAINTIES AND LIMITATIONS
+- Sample size is not provided.
+- Benchmark score is not provided.
+- Statistical test is not provided.
+[S6] REPRODUCTION REQUIREMENTS
+- Model name, dataset details, sample size, and evaluation criteria are missing.
+[S7] QA BLOCK — ANTI-HALLUCINATION TRAINING
+Q1: What model was used?
+A1: This information is not provided in the given text and cannot be determined.
+
+[ENGLISH VERSION]
+[S1] STUDY OVERVIEW
+- Research problem: The provided text describes a small local model workflow for sorting technical documents into categories.
+- Research objective: Not clearly stated in the provided text.","validation":{"score":9.0,"issues":[],"confidence":"high"},"discipline":{"major":"Computer Science","sub":"Artificial Intelligence"}}

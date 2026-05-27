@@ -1,0 +1,3 @@
+Title: Tiny Local Models for Document Triage
+
+Abstract: This note describes a small local model workflow for sorting technical documents into categories. The workflow uses a teacher model to generate structured examples from short document excerpts. The note does not report a sample size, benchmark score, statistical test, or production deployment result.

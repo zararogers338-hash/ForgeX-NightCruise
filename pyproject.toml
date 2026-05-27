@@ -1,0 +1,11 @@
+[project]
+name = "forgex-nightcruise"
+version = "7.1.0"
+description = "Synthetic dataset factory for local AI training with hardware monitoring."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+keywords = ["ai", "llm", "synthetic-data", "dataset-generation", "local-ai", "ollama", "gguf"]
+
+[tool.compileall]
+quiet = 1
